@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "idCategoria":1,
+        "nombre": "Remera Kimetsu",
+        "precio": 5000,
+        "stock": 15,
+        "img": "img/remera1.jpg",
+        "size": "300x500"
+    },
+    {
+        "id": 2,
+        "idCategoria":2,
+        "nombre": "Remera2",
+        "precio": 5000,
+        "stock": 15,
+        "img": "img/remera2.jpg",
+        "size": "300x500"
+    },
+    {
+        "id": 3,
+        "idCategoria":3,
+        "nombre": "Buzo",
+        "precio": 10000,
+        "stock": 10,
+        "img": "img/remera3.jpg",
+        "size": "300x500"
+    },
+    {
+        "id": 4,
+        "idCategoria":4,
+        "nombre": "Remera SailorMoon",
+        "precio": 5000,
+        "stock": 15,
+        "img": "img/remera4.jpg",
+        "size": "300x500"
+    },
+    {
+        "id": 5,
+        "idCategoria":5,
+        "nombre": "Remera5",
+        "precio": 5000,
+        "stock": 10,
+        "img": "img/remera5.jpg",
+        "size": "300x500"
+    },
+    {
+        "id": 6,
+        "idCategoria":6,
+        "nombre": "Remera Toga",
+        "precio": 5000,
+        "stock": 15,
+        "img": "img/remera6.jpg",
+        "size": "300x500"
+    },
+    {
+        "id": 7,
+        "idCategoria":7,
+        "nombre": "Remera7",
+        "precio": 5000,
+        "stock": 15,
+        "img": "img/remera7.jpg",
+        "size": "300x500"
+    },
+    {
+        "id": 8,
+        "idCategoria":8,
+        "nombre": "Remera Todoroki",
+        "precio": 5000,
+        "stock": 9,
+        "img": "img/remera8.jpg",
+        "size": "300x500"
+    },
+    {
+        "id": 9,
+        "idCategoria":9,
+        "nombre": "Remera Tanjiro",
+        "precio": 5000,
+        "stock": 15,
+        "img": "img/remera9.jpg",
+        "size": "300x500"
+    },
+    {
+        "id": 10,
+        "idCategoria":10,
+        "nombre": "Remera10",
+        "precio": 5000,
+        "stock": 15,
+        "img": "img/remera10.jpg",
+        "size": "300x500"
+    }
+
+]

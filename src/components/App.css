@@ -1,3 +1,8 @@
 .divGeneral {
     background-color: aquamarine;
 }
+
+.itemDetail {
+    max-width: 440px;
+    margin-top: 10px;
+}
