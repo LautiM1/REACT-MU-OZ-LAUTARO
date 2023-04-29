@@ -1,92 +1,119 @@
 [
     {
         "id": 1,
-        "idCategoria":1,
-        "nombre": "Remera Kimetsu",
+        "idCategoria":2,
+        "nombre": "Buzo kimetsu",
         "precio": 5000,
         "stock": 15,
-        "img": "img/remera1.jpg",
+        "img": "/img/remera1.jpg",
         "size": "300x500"
     },
     {
         "id": 2,
-        "idCategoria":2,
+        "idCategoria":1,
         "nombre": "Remera2",
         "precio": 5000,
         "stock": 15,
-        "img": "img/remera2.jpg",
+        "img": "/img/remera2.jpg",
         "size": "300x500"
     },
     {
         "id": 3,
-        "idCategoria":3,
+        "idCategoria":2,
         "nombre": "Buzo",
         "precio": 10000,
         "stock": 10,
-        "img": "img/remera3.jpg",
+        "img": "/img/remera3.jpg",
         "size": "300x500"
     },
     {
         "id": 4,
-        "idCategoria":4,
+        "idCategoria":1,
         "nombre": "Remera SailorMoon",
         "precio": 5000,
         "stock": 15,
-        "img": "img/remera4.jpg",
+        "img": "/img/remera4.jpg",
         "size": "300x500"
     },
     {
         "id": 5,
-        "idCategoria":5,
+        "idCategoria":1,
         "nombre": "Remera5",
         "precio": 5000,
         "stock": 10,
-        "img": "img/remera5.jpg",
+        "img": "/img/remera5.jpg",
         "size": "300x500"
     },
     {
         "id": 6,
-        "idCategoria":6,
+        "idCategoria":1,
         "nombre": "Remera Toga",
         "precio": 5000,
         "stock": 15,
-        "img": "img/remera6.jpg",
+        "img": "/img/remera6.jpg",
         "size": "300x500"
     },
     {
         "id": 7,
-        "idCategoria":7,
+        "idCategoria":1,
         "nombre": "Remera7",
         "precio": 5000,
         "stock": 15,
-        "img": "img/remera7.jpg",
+        "img": "/img/remera7.jpg",
         "size": "300x500"
     },
     {
         "id": 8,
-        "idCategoria":8,
+        "idCategoria":1,
         "nombre": "Remera Todoroki",
         "precio": 5000,
         "stock": 9,
-        "img": "img/remera8.jpg",
+        "img": "/img/remera8.jpg",
         "size": "300x500"
     },
     {
         "id": 9,
-        "idCategoria":9,
+        "idCategoria":1,
         "nombre": "Remera Tanjiro",
         "precio": 5000,
         "stock": 15,
-        "img": "img/remera9.jpg",
+        "img": "/img/remera9.jpg",
         "size": "300x500"
     },
     {
         "id": 10,
-        "idCategoria":10,
+        "idCategoria":1,
         "nombre": "Remera10",
         "precio": 5000,
         "stock": 15,
-        "img": "img/remera10.jpg",
+        "img": "/img/remera10.jpg",
+        "size": "300x500"
+    },
+    {
+        "id": 11,
+        "idCategoria":3,
+        "nombre": "joggin",
+        "precio": 5000,
+        "stock": 15,
+        "img": "/img/joggin11.jpg",
+        "size": "300x500"
+    },
+    {
+        "id": 12,
+        "idCategoria":3,
+        "nombre": "joggin",
+        "precio": 5000,
+        "stock": 15,
+        "img": "/img/joggin12.jpg",
+        "size": "300x500"
+    },
+    {
+        "id": 13,
+        "idCategoria":3,
+        "nombre": "joggin",
+        "precio": 5000,
+        "stock": 15,
+        "img": "/img/joggin13.jpg",
         "size": "300x500"
     }
 
